@@ -1,0 +1,14 @@
+C:\Users\User\Documents\DotNet Dio\Modulo 1\Desafio - Sistema para um estacionamento\Desafio - Sistema para um estacionamento\bin\Debug\net8.0\Desafio - Sistema para um estacionamento.exe
+C:\Users\User\Documents\DotNet Dio\Modulo 1\Desafio - Sistema para um estacionamento\Desafio - Sistema para um estacionamento\bin\Debug\net8.0\Desafio - Sistema para um estacionamento.deps.json
+C:\Users\User\Documents\DotNet Dio\Modulo 1\Desafio - Sistema para um estacionamento\Desafio - Sistema para um estacionamento\bin\Debug\net8.0\Desafio - Sistema para um estacionamento.runtimeconfig.json
+C:\Users\User\Documents\DotNet Dio\Modulo 1\Desafio - Sistema para um estacionamento\Desafio - Sistema para um estacionamento\bin\Debug\net8.0\Desafio - Sistema para um estacionamento.dll
+C:\Users\User\Documents\DotNet Dio\Modulo 1\Desafio - Sistema para um estacionamento\Desafio - Sistema para um estacionamento\bin\Debug\net8.0\Desafio - Sistema para um estacionamento.pdb
+C:\Users\User\Documents\DotNet Dio\Modulo 1\Desafio - Sistema para um estacionamento\Desafio - Sistema para um estacionamento\obj\Debug\net8.0\Desafio - Sistema para um estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\DotNet Dio\Modulo 1\Desafio - Sistema para um estacionamento\Desafio - Sistema para um estacionamento\obj\Debug\net8.0\Desafio - Sistema para um estacionamento.AssemblyInfoInputs.cache
+C:\Users\User\Documents\DotNet Dio\Modulo 1\Desafio - Sistema para um estacionamento\Desafio - Sistema para um estacionamento\obj\Debug\net8.0\Desafio - Sistema para um estacionamento.AssemblyInfo.cs
+C:\Users\User\Documents\DotNet Dio\Modulo 1\Desafio - Sistema para um estacionamento\Desafio - Sistema para um estacionamento\obj\Debug\net8.0\Desafio - Sistema para um estacionamento.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\DotNet Dio\Modulo 1\Desafio - Sistema para um estacionamento\Desafio - Sistema para um estacionamento\obj\Debug\net8.0\Desafio - Sistema para um estacionamento.dll
+C:\Users\User\Documents\DotNet Dio\Modulo 1\Desafio - Sistema para um estacionamento\Desafio - Sistema para um estacionamento\obj\Debug\net8.0\refint\Desafio - Sistema para um estacionamento.dll
+C:\Users\User\Documents\DotNet Dio\Modulo 1\Desafio - Sistema para um estacionamento\Desafio - Sistema para um estacionamento\obj\Debug\net8.0\Desafio - Sistema para um estacionamento.pdb
+C:\Users\User\Documents\DotNet Dio\Modulo 1\Desafio - Sistema para um estacionamento\Desafio - Sistema para um estacionamento\obj\Debug\net8.0\Desafio - Sistema para um estacionamento.genruntimeconfig.cache
+C:\Users\User\Documents\DotNet Dio\Modulo 1\Desafio - Sistema para um estacionamento\Desafio - Sistema para um estacionamento\obj\Debug\net8.0\ref\Desafio - Sistema para um estacionamento.dll

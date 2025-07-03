@@ -1,0 +1,14 @@
+C:\Users\User\Documents\DotNet Dio\introdução a operações aritimeticas\OperadoresAritimeticosEAClasseMath\obj\Debug\net8.0\OperadoresAritimeticosEAClasseMath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\DotNet Dio\introdução a operações aritimeticas\OperadoresAritimeticosEAClasseMath\obj\Debug\net8.0\OperadoresAritimeticosEAClasseMath.AssemblyInfoInputs.cache
+C:\Users\User\Documents\DotNet Dio\introdução a operações aritimeticas\OperadoresAritimeticosEAClasseMath\obj\Debug\net8.0\OperadoresAritimeticosEAClasseMath.AssemblyInfo.cs
+C:\Users\User\Documents\DotNet Dio\introdução a operações aritimeticas\OperadoresAritimeticosEAClasseMath\obj\Debug\net8.0\OperadoresAritimeticosEAClasseMath.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\DotNet Dio\introdução a operações aritimeticas\OperadoresAritimeticosEAClasseMath\bin\Debug\net8.0\OperadoresAritimeticosEAClasseMath.exe
+C:\Users\User\Documents\DotNet Dio\introdução a operações aritimeticas\OperadoresAritimeticosEAClasseMath\bin\Debug\net8.0\OperadoresAritimeticosEAClasseMath.deps.json
+C:\Users\User\Documents\DotNet Dio\introdução a operações aritimeticas\OperadoresAritimeticosEAClasseMath\bin\Debug\net8.0\OperadoresAritimeticosEAClasseMath.runtimeconfig.json
+C:\Users\User\Documents\DotNet Dio\introdução a operações aritimeticas\OperadoresAritimeticosEAClasseMath\bin\Debug\net8.0\OperadoresAritimeticosEAClasseMath.dll
+C:\Users\User\Documents\DotNet Dio\introdução a operações aritimeticas\OperadoresAritimeticosEAClasseMath\bin\Debug\net8.0\OperadoresAritimeticosEAClasseMath.pdb
+C:\Users\User\Documents\DotNet Dio\introdução a operações aritimeticas\OperadoresAritimeticosEAClasseMath\obj\Debug\net8.0\OperadoresAritimeticosEAClasseMath.dll
+C:\Users\User\Documents\DotNet Dio\introdução a operações aritimeticas\OperadoresAritimeticosEAClasseMath\obj\Debug\net8.0\refint\OperadoresAritimeticosEAClasseMath.dll
+C:\Users\User\Documents\DotNet Dio\introdução a operações aritimeticas\OperadoresAritimeticosEAClasseMath\obj\Debug\net8.0\OperadoresAritimeticosEAClasseMath.pdb
+C:\Users\User\Documents\DotNet Dio\introdução a operações aritimeticas\OperadoresAritimeticosEAClasseMath\obj\Debug\net8.0\OperadoresAritimeticosEAClasseMath.genruntimeconfig.cache
+C:\Users\User\Documents\DotNet Dio\introdução a operações aritimeticas\OperadoresAritimeticosEAClasseMath\obj\Debug\net8.0\ref\OperadoresAritimeticosEAClasseMath.dll

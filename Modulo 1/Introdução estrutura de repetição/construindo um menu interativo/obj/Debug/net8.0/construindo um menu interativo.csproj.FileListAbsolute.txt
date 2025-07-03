@@ -1,0 +1,14 @@
+C:\Users\User\Documents\DotNet Dio\Introdução estrutura de repetição\construindo um menu interativo\obj\Debug\net8.0\construindo um menu interativo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\DotNet Dio\Introdução estrutura de repetição\construindo um menu interativo\obj\Debug\net8.0\construindo um menu interativo.AssemblyInfoInputs.cache
+C:\Users\User\Documents\DotNet Dio\Introdução estrutura de repetição\construindo um menu interativo\obj\Debug\net8.0\construindo um menu interativo.AssemblyInfo.cs
+C:\Users\User\Documents\DotNet Dio\Introdução estrutura de repetição\construindo um menu interativo\obj\Debug\net8.0\construindo um menu interativo.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\DotNet Dio\Introdução estrutura de repetição\construindo um menu interativo\bin\Debug\net8.0\construindo um menu interativo.exe
+C:\Users\User\Documents\DotNet Dio\Introdução estrutura de repetição\construindo um menu interativo\bin\Debug\net8.0\construindo um menu interativo.deps.json
+C:\Users\User\Documents\DotNet Dio\Introdução estrutura de repetição\construindo um menu interativo\bin\Debug\net8.0\construindo um menu interativo.runtimeconfig.json
+C:\Users\User\Documents\DotNet Dio\Introdução estrutura de repetição\construindo um menu interativo\bin\Debug\net8.0\construindo um menu interativo.dll
+C:\Users\User\Documents\DotNet Dio\Introdução estrutura de repetição\construindo um menu interativo\bin\Debug\net8.0\construindo um menu interativo.pdb
+C:\Users\User\Documents\DotNet Dio\Introdução estrutura de repetição\construindo um menu interativo\obj\Debug\net8.0\construindo um menu interativo.dll
+C:\Users\User\Documents\DotNet Dio\Introdução estrutura de repetição\construindo um menu interativo\obj\Debug\net8.0\refint\construindo um menu interativo.dll
+C:\Users\User\Documents\DotNet Dio\Introdução estrutura de repetição\construindo um menu interativo\obj\Debug\net8.0\construindo um menu interativo.pdb
+C:\Users\User\Documents\DotNet Dio\Introdução estrutura de repetição\construindo um menu interativo\obj\Debug\net8.0\construindo um menu interativo.genruntimeconfig.cache
+C:\Users\User\Documents\DotNet Dio\Introdução estrutura de repetição\construindo um menu interativo\obj\Debug\net8.0\ref\construindo um menu interativo.dll

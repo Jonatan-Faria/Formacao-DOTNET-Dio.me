@@ -1,0 +1,14 @@
+C:\Users\User\Documents\DotNet Dio\Modulo 1\Desafio - Sistema para um estacionamento\Minha versão do desafio\bin\Debug\net8.0\Minha versão do desafio.exe
+C:\Users\User\Documents\DotNet Dio\Modulo 1\Desafio - Sistema para um estacionamento\Minha versão do desafio\bin\Debug\net8.0\Minha versão do desafio.deps.json
+C:\Users\User\Documents\DotNet Dio\Modulo 1\Desafio - Sistema para um estacionamento\Minha versão do desafio\bin\Debug\net8.0\Minha versão do desafio.runtimeconfig.json
+C:\Users\User\Documents\DotNet Dio\Modulo 1\Desafio - Sistema para um estacionamento\Minha versão do desafio\bin\Debug\net8.0\Minha versão do desafio.dll
+C:\Users\User\Documents\DotNet Dio\Modulo 1\Desafio - Sistema para um estacionamento\Minha versão do desafio\bin\Debug\net8.0\Minha versão do desafio.pdb
+C:\Users\User\Documents\DotNet Dio\Modulo 1\Desafio - Sistema para um estacionamento\Minha versão do desafio\obj\Debug\net8.0\Minha versão do desafio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\DotNet Dio\Modulo 1\Desafio - Sistema para um estacionamento\Minha versão do desafio\obj\Debug\net8.0\Minha versão do desafio.AssemblyInfoInputs.cache
+C:\Users\User\Documents\DotNet Dio\Modulo 1\Desafio - Sistema para um estacionamento\Minha versão do desafio\obj\Debug\net8.0\Minha versão do desafio.AssemblyInfo.cs
+C:\Users\User\Documents\DotNet Dio\Modulo 1\Desafio - Sistema para um estacionamento\Minha versão do desafio\obj\Debug\net8.0\Minha versão do desafio.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\DotNet Dio\Modulo 1\Desafio - Sistema para um estacionamento\Minha versão do desafio\obj\Debug\net8.0\Minha versão do desafio.dll
+C:\Users\User\Documents\DotNet Dio\Modulo 1\Desafio - Sistema para um estacionamento\Minha versão do desafio\obj\Debug\net8.0\refint\Minha versão do desafio.dll
+C:\Users\User\Documents\DotNet Dio\Modulo 1\Desafio - Sistema para um estacionamento\Minha versão do desafio\obj\Debug\net8.0\Minha versão do desafio.pdb
+C:\Users\User\Documents\DotNet Dio\Modulo 1\Desafio - Sistema para um estacionamento\Minha versão do desafio\obj\Debug\net8.0\Minha versão do desafio.genruntimeconfig.cache
+C:\Users\User\Documents\DotNet Dio\Modulo 1\Desafio - Sistema para um estacionamento\Minha versão do desafio\obj\Debug\net8.0\ref\Minha versão do desafio.dll

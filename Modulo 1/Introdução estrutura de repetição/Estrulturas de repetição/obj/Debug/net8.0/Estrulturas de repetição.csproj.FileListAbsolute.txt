@@ -1,0 +1,14 @@
+C:\Users\User\Documents\DotNet Dio\Introdução estrutura de repetição\Estrulturas de repetição\bin\Debug\net8.0\Estrulturas de repetição.exe
+C:\Users\User\Documents\DotNet Dio\Introdução estrutura de repetição\Estrulturas de repetição\bin\Debug\net8.0\Estrulturas de repetição.deps.json
+C:\Users\User\Documents\DotNet Dio\Introdução estrutura de repetição\Estrulturas de repetição\bin\Debug\net8.0\Estrulturas de repetição.runtimeconfig.json
+C:\Users\User\Documents\DotNet Dio\Introdução estrutura de repetição\Estrulturas de repetição\bin\Debug\net8.0\Estrulturas de repetição.dll
+C:\Users\User\Documents\DotNet Dio\Introdução estrutura de repetição\Estrulturas de repetição\bin\Debug\net8.0\Estrulturas de repetição.pdb
+C:\Users\User\Documents\DotNet Dio\Introdução estrutura de repetição\Estrulturas de repetição\obj\Debug\net8.0\Estrulturas de repetição.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\DotNet Dio\Introdução estrutura de repetição\Estrulturas de repetição\obj\Debug\net8.0\Estrulturas de repetição.AssemblyInfoInputs.cache
+C:\Users\User\Documents\DotNet Dio\Introdução estrutura de repetição\Estrulturas de repetição\obj\Debug\net8.0\Estrulturas de repetição.AssemblyInfo.cs
+C:\Users\User\Documents\DotNet Dio\Introdução estrutura de repetição\Estrulturas de repetição\obj\Debug\net8.0\Estrulturas de repetição.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\DotNet Dio\Introdução estrutura de repetição\Estrulturas de repetição\obj\Debug\net8.0\Estrulturas de repetição.dll
+C:\Users\User\Documents\DotNet Dio\Introdução estrutura de repetição\Estrulturas de repetição\obj\Debug\net8.0\refint\Estrulturas de repetição.dll
+C:\Users\User\Documents\DotNet Dio\Introdução estrutura de repetição\Estrulturas de repetição\obj\Debug\net8.0\Estrulturas de repetição.pdb
+C:\Users\User\Documents\DotNet Dio\Introdução estrutura de repetição\Estrulturas de repetição\obj\Debug\net8.0\Estrulturas de repetição.genruntimeconfig.cache
+C:\Users\User\Documents\DotNet Dio\Introdução estrutura de repetição\Estrulturas de repetição\obj\Debug\net8.0\ref\Estrulturas de repetição.dll

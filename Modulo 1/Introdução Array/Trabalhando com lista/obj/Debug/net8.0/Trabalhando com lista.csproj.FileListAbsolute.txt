@@ -1,0 +1,14 @@
+C:\Users\User\Documents\DotNet Dio\Introdução Array\Trabalhando com lista\bin\Debug\net8.0\Trabalhando com lista.exe
+C:\Users\User\Documents\DotNet Dio\Introdução Array\Trabalhando com lista\bin\Debug\net8.0\Trabalhando com lista.deps.json
+C:\Users\User\Documents\DotNet Dio\Introdução Array\Trabalhando com lista\bin\Debug\net8.0\Trabalhando com lista.runtimeconfig.json
+C:\Users\User\Documents\DotNet Dio\Introdução Array\Trabalhando com lista\bin\Debug\net8.0\Trabalhando com lista.dll
+C:\Users\User\Documents\DotNet Dio\Introdução Array\Trabalhando com lista\bin\Debug\net8.0\Trabalhando com lista.pdb
+C:\Users\User\Documents\DotNet Dio\Introdução Array\Trabalhando com lista\obj\Debug\net8.0\Trabalhando com lista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\DotNet Dio\Introdução Array\Trabalhando com lista\obj\Debug\net8.0\Trabalhando com lista.AssemblyInfoInputs.cache
+C:\Users\User\Documents\DotNet Dio\Introdução Array\Trabalhando com lista\obj\Debug\net8.0\Trabalhando com lista.AssemblyInfo.cs
+C:\Users\User\Documents\DotNet Dio\Introdução Array\Trabalhando com lista\obj\Debug\net8.0\Trabalhando com lista.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\DotNet Dio\Introdução Array\Trabalhando com lista\obj\Debug\net8.0\Trabalhando com lista.dll
+C:\Users\User\Documents\DotNet Dio\Introdução Array\Trabalhando com lista\obj\Debug\net8.0\refint\Trabalhando com lista.dll
+C:\Users\User\Documents\DotNet Dio\Introdução Array\Trabalhando com lista\obj\Debug\net8.0\Trabalhando com lista.pdb
+C:\Users\User\Documents\DotNet Dio\Introdução Array\Trabalhando com lista\obj\Debug\net8.0\Trabalhando com lista.genruntimeconfig.cache
+C:\Users\User\Documents\DotNet Dio\Introdução Array\Trabalhando com lista\obj\Debug\net8.0\ref\Trabalhando com lista.dll

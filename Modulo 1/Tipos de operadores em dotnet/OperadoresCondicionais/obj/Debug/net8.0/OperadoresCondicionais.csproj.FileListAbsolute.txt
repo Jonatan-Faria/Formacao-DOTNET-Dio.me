@@ -1,0 +1,14 @@
+C:\Users\User\Documents\DotNet Dio\Tipos de operadores em dotnet\OperadoresCondicionais\bin\Debug\net8.0\OperadoresCondicionais.exe
+C:\Users\User\Documents\DotNet Dio\Tipos de operadores em dotnet\OperadoresCondicionais\bin\Debug\net8.0\OperadoresCondicionais.deps.json
+C:\Users\User\Documents\DotNet Dio\Tipos de operadores em dotnet\OperadoresCondicionais\bin\Debug\net8.0\OperadoresCondicionais.runtimeconfig.json
+C:\Users\User\Documents\DotNet Dio\Tipos de operadores em dotnet\OperadoresCondicionais\bin\Debug\net8.0\OperadoresCondicionais.dll
+C:\Users\User\Documents\DotNet Dio\Tipos de operadores em dotnet\OperadoresCondicionais\bin\Debug\net8.0\OperadoresCondicionais.pdb
+C:\Users\User\Documents\DotNet Dio\Tipos de operadores em dotnet\OperadoresCondicionais\obj\Debug\net8.0\OperadoresCondicionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\DotNet Dio\Tipos de operadores em dotnet\OperadoresCondicionais\obj\Debug\net8.0\OperadoresCondicionais.AssemblyInfoInputs.cache
+C:\Users\User\Documents\DotNet Dio\Tipos de operadores em dotnet\OperadoresCondicionais\obj\Debug\net8.0\OperadoresCondicionais.AssemblyInfo.cs
+C:\Users\User\Documents\DotNet Dio\Tipos de operadores em dotnet\OperadoresCondicionais\obj\Debug\net8.0\OperadoresCondicionais.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\DotNet Dio\Tipos de operadores em dotnet\OperadoresCondicionais\obj\Debug\net8.0\OperadoresCondicionais.dll
+C:\Users\User\Documents\DotNet Dio\Tipos de operadores em dotnet\OperadoresCondicionais\obj\Debug\net8.0\refint\OperadoresCondicionais.dll
+C:\Users\User\Documents\DotNet Dio\Tipos de operadores em dotnet\OperadoresCondicionais\obj\Debug\net8.0\OperadoresCondicionais.pdb
+C:\Users\User\Documents\DotNet Dio\Tipos de operadores em dotnet\OperadoresCondicionais\obj\Debug\net8.0\OperadoresCondicionais.genruntimeconfig.cache
+C:\Users\User\Documents\DotNet Dio\Tipos de operadores em dotnet\OperadoresCondicionais\obj\Debug\net8.0\ref\OperadoresCondicionais.dll

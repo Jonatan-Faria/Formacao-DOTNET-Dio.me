@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Tipos de operadores em dotnet/1.0.0": {
+        "runtime": {
+          "Tipos de operadores em dotnet.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tipos de operadores em dotnet/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

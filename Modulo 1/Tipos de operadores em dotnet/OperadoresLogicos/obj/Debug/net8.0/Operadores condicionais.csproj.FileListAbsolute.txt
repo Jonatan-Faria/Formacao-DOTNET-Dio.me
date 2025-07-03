@@ -1,0 +1,14 @@
+C:\Users\User\Documents\DotNet Dio\Tipos de operadores em dotnet\OperadoresLogicos\bin\Debug\net8.0\Operadores condicionais.exe
+C:\Users\User\Documents\DotNet Dio\Tipos de operadores em dotnet\OperadoresLogicos\bin\Debug\net8.0\Operadores condicionais.deps.json
+C:\Users\User\Documents\DotNet Dio\Tipos de operadores em dotnet\OperadoresLogicos\bin\Debug\net8.0\Operadores condicionais.runtimeconfig.json
+C:\Users\User\Documents\DotNet Dio\Tipos de operadores em dotnet\OperadoresLogicos\bin\Debug\net8.0\Operadores condicionais.dll
+C:\Users\User\Documents\DotNet Dio\Tipos de operadores em dotnet\OperadoresLogicos\bin\Debug\net8.0\Operadores condicionais.pdb
+C:\Users\User\Documents\DotNet Dio\Tipos de operadores em dotnet\OperadoresLogicos\obj\Debug\net8.0\Operadores condicionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\DotNet Dio\Tipos de operadores em dotnet\OperadoresLogicos\obj\Debug\net8.0\Operadores condicionais.AssemblyInfoInputs.cache
+C:\Users\User\Documents\DotNet Dio\Tipos de operadores em dotnet\OperadoresLogicos\obj\Debug\net8.0\Operadores condicionais.AssemblyInfo.cs
+C:\Users\User\Documents\DotNet Dio\Tipos de operadores em dotnet\OperadoresLogicos\obj\Debug\net8.0\Operadores condicionais.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\DotNet Dio\Tipos de operadores em dotnet\OperadoresLogicos\obj\Debug\net8.0\Operadores condicionais.dll
+C:\Users\User\Documents\DotNet Dio\Tipos de operadores em dotnet\OperadoresLogicos\obj\Debug\net8.0\refint\Operadores condicionais.dll
+C:\Users\User\Documents\DotNet Dio\Tipos de operadores em dotnet\OperadoresLogicos\obj\Debug\net8.0\Operadores condicionais.pdb
+C:\Users\User\Documents\DotNet Dio\Tipos de operadores em dotnet\OperadoresLogicos\obj\Debug\net8.0\Operadores condicionais.genruntimeconfig.cache
+C:\Users\User\Documents\DotNet Dio\Tipos de operadores em dotnet\OperadoresLogicos\obj\Debug\net8.0\ref\Operadores condicionais.dll

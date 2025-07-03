@@ -1,0 +1,14 @@
+C:\Users\User\Documents\DotNet Dio\Introdução Array\Introdução array\obj\Debug\net8.0\Introdução array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\DotNet Dio\Introdução Array\Introdução array\obj\Debug\net8.0\Introdução array.AssemblyInfoInputs.cache
+C:\Users\User\Documents\DotNet Dio\Introdução Array\Introdução array\obj\Debug\net8.0\Introdução array.AssemblyInfo.cs
+C:\Users\User\Documents\DotNet Dio\Introdução Array\Introdução array\obj\Debug\net8.0\Introdução array.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\DotNet Dio\Introdução Array\Introdução array\bin\Debug\net8.0\Introdução array.exe
+C:\Users\User\Documents\DotNet Dio\Introdução Array\Introdução array\bin\Debug\net8.0\Introdução array.deps.json
+C:\Users\User\Documents\DotNet Dio\Introdução Array\Introdução array\bin\Debug\net8.0\Introdução array.runtimeconfig.json
+C:\Users\User\Documents\DotNet Dio\Introdução Array\Introdução array\bin\Debug\net8.0\Introdução array.dll
+C:\Users\User\Documents\DotNet Dio\Introdução Array\Introdução array\bin\Debug\net8.0\Introdução array.pdb
+C:\Users\User\Documents\DotNet Dio\Introdução Array\Introdução array\obj\Debug\net8.0\Introdução array.dll
+C:\Users\User\Documents\DotNet Dio\Introdução Array\Introdução array\obj\Debug\net8.0\refint\Introdução array.dll
+C:\Users\User\Documents\DotNet Dio\Introdução Array\Introdução array\obj\Debug\net8.0\Introdução array.pdb
+C:\Users\User\Documents\DotNet Dio\Introdução Array\Introdução array\obj\Debug\net8.0\Introdução array.genruntimeconfig.cache
+C:\Users\User\Documents\DotNet Dio\Introdução Array\Introdução array\obj\Debug\net8.0\ref\Introdução array.dll

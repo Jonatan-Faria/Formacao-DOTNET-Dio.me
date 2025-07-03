@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "construindo um menu interativo", "construindo um menu interativo.csproj", "{CA45E19A-728A-D5B7-805E-A6527F69DDA7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA45E19A-728A-D5B7-805E-A6527F69DDA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA45E19A-728A-D5B7-805E-A6527F69DDA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA45E19A-728A-D5B7-805E-A6527F69DDA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA45E19A-728A-D5B7-805E-A6527F69DDA7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C325BB66-52F2-44C1-ADB5-059405BC2424}
+	EndGlobalSection
+EndGlobal
