@@ -1,0 +1,15 @@
+C:\Users\User\Documents\DotNetDio\Modulo 3\Introdução, Abstração e Encapsulamento com C#\Abstração na prática\bin\Debug\net8.0\Abstração na prática.exe
+C:\Users\User\Documents\DotNetDio\Modulo 3\Introdução, Abstração e Encapsulamento com C#\Abstração na prática\bin\Debug\net8.0\Abstração na prática.deps.json
+C:\Users\User\Documents\DotNetDio\Modulo 3\Introdução, Abstração e Encapsulamento com C#\Abstração na prática\bin\Debug\net8.0\Abstração na prática.runtimeconfig.json
+C:\Users\User\Documents\DotNetDio\Modulo 3\Introdução, Abstração e Encapsulamento com C#\Abstração na prática\bin\Debug\net8.0\Abstração na prática.dll
+C:\Users\User\Documents\DotNetDio\Modulo 3\Introdução, Abstração e Encapsulamento com C#\Abstração na prática\bin\Debug\net8.0\Abstração na prática.pdb
+C:\Users\User\Documents\DotNetDio\Modulo 3\Introdução, Abstração e Encapsulamento com C#\Abstração na prática\obj\Debug\net8.0\Abstração na prática.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\DotNetDio\Modulo 3\Introdução, Abstração e Encapsulamento com C#\Abstração na prática\obj\Debug\net8.0\Abstração na prática.AssemblyInfoInputs.cache
+C:\Users\User\Documents\DotNetDio\Modulo 3\Introdução, Abstração e Encapsulamento com C#\Abstração na prática\obj\Debug\net8.0\Abstração na prática.AssemblyInfo.cs
+C:\Users\User\Documents\DotNetDio\Modulo 3\Introdução, Abstração e Encapsulamento com C#\Abstração na prática\obj\Debug\net8.0\Abstração na prática.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\DotNetDio\Modulo 3\Introdução, Abstração e Encapsulamento com C#\Abstração na prática\obj\Debug\net8.0\Abstração na prática.sourcelink.json
+C:\Users\User\Documents\DotNetDio\Modulo 3\Introdução, Abstração e Encapsulamento com C#\Abstração na prática\obj\Debug\net8.0\Abstração na prática.dll
+C:\Users\User\Documents\DotNetDio\Modulo 3\Introdução, Abstração e Encapsulamento com C#\Abstração na prática\obj\Debug\net8.0\refint\Abstração na prática.dll
+C:\Users\User\Documents\DotNetDio\Modulo 3\Introdução, Abstração e Encapsulamento com C#\Abstração na prática\obj\Debug\net8.0\Abstração na prática.pdb
+C:\Users\User\Documents\DotNetDio\Modulo 3\Introdução, Abstração e Encapsulamento com C#\Abstração na prática\obj\Debug\net8.0\Abstração na prática.genruntimeconfig.cache
+C:\Users\User\Documents\DotNetDio\Modulo 3\Introdução, Abstração e Encapsulamento com C#\Abstração na prática\obj\Debug\net8.0\ref\Abstração na prática.dll
