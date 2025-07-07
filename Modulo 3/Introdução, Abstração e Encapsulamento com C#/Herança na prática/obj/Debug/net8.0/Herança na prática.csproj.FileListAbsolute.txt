@@ -1,0 +1,15 @@
+C:\Users\User\Documents\DotNetDio\Modulo 3\Introdução, Abstração e Encapsulamento com C#\Herança na prática\obj\Debug\net8.0\Herança na prática.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\DotNetDio\Modulo 3\Introdução, Abstração e Encapsulamento com C#\Herança na prática\obj\Debug\net8.0\Herança na prática.AssemblyInfoInputs.cache
+C:\Users\User\Documents\DotNetDio\Modulo 3\Introdução, Abstração e Encapsulamento com C#\Herança na prática\obj\Debug\net8.0\Herança na prática.AssemblyInfo.cs
+C:\Users\User\Documents\DotNetDio\Modulo 3\Introdução, Abstração e Encapsulamento com C#\Herança na prática\obj\Debug\net8.0\Herança na prática.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\DotNetDio\Modulo 3\Introdução, Abstração e Encapsulamento com C#\Herança na prática\obj\Debug\net8.0\Herança na prática.sourcelink.json
+C:\Users\User\Documents\DotNetDio\Modulo 3\Introdução, Abstração e Encapsulamento com C#\Herança na prática\bin\Debug\net8.0\Herança na prática.exe
+C:\Users\User\Documents\DotNetDio\Modulo 3\Introdução, Abstração e Encapsulamento com C#\Herança na prática\bin\Debug\net8.0\Herança na prática.deps.json
+C:\Users\User\Documents\DotNetDio\Modulo 3\Introdução, Abstração e Encapsulamento com C#\Herança na prática\bin\Debug\net8.0\Herança na prática.runtimeconfig.json
+C:\Users\User\Documents\DotNetDio\Modulo 3\Introdução, Abstração e Encapsulamento com C#\Herança na prática\bin\Debug\net8.0\Herança na prática.dll
+C:\Users\User\Documents\DotNetDio\Modulo 3\Introdução, Abstração e Encapsulamento com C#\Herança na prática\bin\Debug\net8.0\Herança na prática.pdb
+C:\Users\User\Documents\DotNetDio\Modulo 3\Introdução, Abstração e Encapsulamento com C#\Herança na prática\obj\Debug\net8.0\Herança na prática.dll
+C:\Users\User\Documents\DotNetDio\Modulo 3\Introdução, Abstração e Encapsulamento com C#\Herança na prática\obj\Debug\net8.0\refint\Herança na prática.dll
+C:\Users\User\Documents\DotNetDio\Modulo 3\Introdução, Abstração e Encapsulamento com C#\Herança na prática\obj\Debug\net8.0\Herança na prática.pdb
+C:\Users\User\Documents\DotNetDio\Modulo 3\Introdução, Abstração e Encapsulamento com C#\Herança na prática\obj\Debug\net8.0\Herança na prática.genruntimeconfig.cache
+C:\Users\User\Documents\DotNetDio\Modulo 3\Introdução, Abstração e Encapsulamento com C#\Herança na prática\obj\Debug\net8.0\ref\Herança na prática.dll
