@@ -1,0 +1,15 @@
+C:\Users\User\Documents\DotNetDio\Modulo 3\Classes arbstrata e interface\Construtor por herança\bin\Debug\net8.0\Construtor por herança.exe
+C:\Users\User\Documents\DotNetDio\Modulo 3\Classes arbstrata e interface\Construtor por herança\bin\Debug\net8.0\Construtor por herança.deps.json
+C:\Users\User\Documents\DotNetDio\Modulo 3\Classes arbstrata e interface\Construtor por herança\bin\Debug\net8.0\Construtor por herança.runtimeconfig.json
+C:\Users\User\Documents\DotNetDio\Modulo 3\Classes arbstrata e interface\Construtor por herança\bin\Debug\net8.0\Construtor por herança.dll
+C:\Users\User\Documents\DotNetDio\Modulo 3\Classes arbstrata e interface\Construtor por herança\bin\Debug\net8.0\Construtor por herança.pdb
+C:\Users\User\Documents\DotNetDio\Modulo 3\Classes arbstrata e interface\Construtor por herança\obj\Debug\net8.0\Construtor por herança.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\DotNetDio\Modulo 3\Classes arbstrata e interface\Construtor por herança\obj\Debug\net8.0\Construtor por herança.AssemblyInfoInputs.cache
+C:\Users\User\Documents\DotNetDio\Modulo 3\Classes arbstrata e interface\Construtor por herança\obj\Debug\net8.0\Construtor por herança.AssemblyInfo.cs
+C:\Users\User\Documents\DotNetDio\Modulo 3\Classes arbstrata e interface\Construtor por herança\obj\Debug\net8.0\Construtor por herança.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\DotNetDio\Modulo 3\Classes arbstrata e interface\Construtor por herança\obj\Debug\net8.0\Construtor por herança.sourcelink.json
+C:\Users\User\Documents\DotNetDio\Modulo 3\Classes arbstrata e interface\Construtor por herança\obj\Debug\net8.0\Construtor por herança.dll
+C:\Users\User\Documents\DotNetDio\Modulo 3\Classes arbstrata e interface\Construtor por herança\obj\Debug\net8.0\refint\Construtor por herança.dll
+C:\Users\User\Documents\DotNetDio\Modulo 3\Classes arbstrata e interface\Construtor por herança\obj\Debug\net8.0\Construtor por herança.pdb
+C:\Users\User\Documents\DotNetDio\Modulo 3\Classes arbstrata e interface\Construtor por herança\obj\Debug\net8.0\Construtor por herança.genruntimeconfig.cache
+C:\Users\User\Documents\DotNetDio\Modulo 3\Classes arbstrata e interface\Construtor por herança\obj\Debug\net8.0\ref\Construtor por herança.dll
